@@ -1,0 +1,12 @@
+#grid{
+    width:300px;
+    height:200px;
+    display: flex;
+    flex-wrap: wrap;
+ 
+}
+.mem-game{
+    margin-left: 600px;
+    
+    
+}
